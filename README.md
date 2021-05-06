@@ -1,4 +1,4 @@
-#THOMAS
+# THOMAS
 
 - 👋 Hi, I’m @tomagent
 - 👀 I’m interested in entrepreneurship
