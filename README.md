@@ -1,10 +1,6 @@
 # THOMAS
 
 - 👋 Hi, I’m @tomagent
-- 👀 I’m interested in entrepreneurship
-- 🌱 I’m currently learning to code :)
-- 💞️ I’m looking to collaborate on software projects
-- 📫 How to reach me @thom.official.08
 
 <!---
 tomagent/tomagent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
